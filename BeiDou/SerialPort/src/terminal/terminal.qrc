@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>close_image.png</file>
+        <file>clear_image.png</file>
+        <file>connect_image.png</file>
+        <file>disconnect_image.png</file>
+        <file>settings_image.png</file>
+    </qresource>
+</RCC>
